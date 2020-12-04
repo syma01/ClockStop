@@ -1,2 +1,0 @@
-# ClockStop
-StopClock
